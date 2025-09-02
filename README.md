@@ -1,4 +1,11 @@
-![Trajectory generated with the algorithm and visualized using molden:https://www.theochem.ru.nl/molden/](merge.gif)
+![Trajectory](merge.gif)
+
+The image is a Trajectory generated with this MD algorithm during 20 ps
+and visualized using the software molden:https://www.theochem.ru.nl/molden/
+
+Here is a crystaline structure for solid Ar evolving at very low temperatures nearby 80 K
+under the minimal image convention.
+
 Jose A. Guerrero-Cruz\
 fall2023-spring2024\
 j.a.g.cruz@kjemi.uio.no\
