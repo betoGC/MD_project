@@ -1,3 +1,4 @@
+![Trajectory generated with the algorithm and visualized using molden:https://www.theochem.ru.nl/molden/](merge.gif)
 Jose A. Guerrero-Cruz\
 fall2023-spring2024\
 j.a.g.cruz@kjemi.uio.no\
